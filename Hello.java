@@ -6,7 +6,7 @@ public static void main(String args[])
 
 {
 
-System.out.println("hello from remote master");
+System.out.println("hello from local");
 
 }
 
